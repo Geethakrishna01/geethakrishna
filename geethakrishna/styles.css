@@ -1,0 +1,14 @@
+body {
+  background-color: Gray;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+img.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
